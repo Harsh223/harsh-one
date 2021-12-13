@@ -2,12 +2,13 @@
 title: Harsh Kumar
 role: "Computer Engineering B.SC. | Entreprenur | Developer "
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Entrepreneurship
+  - FinTech
+  - SDGs
+  - Traveling
+  - Coding
 social:
   - icon: envelope
     icon_pack: fas
@@ -36,7 +37,7 @@ education:
       year: -1
     - course: High School
       institution: Doon Public School
-      year: ""
+      year: -1
 email: me@harsh.one
 superuser: true
 highlight_name: true
