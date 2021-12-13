@@ -14,31 +14,30 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/223Harsh
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Harsh223
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/harsh223/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Politecnico Di Torino
+    url: https://www.polito.it/
+  - name: 同济大学 (Tongji University)
+    url: http://www.tongji.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Bachelor's in Computer Engineering 🇮🇹, 2018-2021
+      institution: Politecnico Di Torino
+      year: ""
+    - course: Bachelor's in ITE(Exchange Year)
+      institution: 同济大学 (Tongji University)
+      year: -1
+    - course: High School
+      institution: Doon Public School
+      year: ""
+email: me@harsh.one
 superuser: true
 highlight_name: true
 ---
