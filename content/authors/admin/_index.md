@@ -1,7 +1,7 @@
 ---
 title: Harsh Kumar
 role: "Computer Engineering B.SC. | Entreprenur | Developer "
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
